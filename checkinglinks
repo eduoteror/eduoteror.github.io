@@ -1,0 +1,27 @@
+name: Check Links
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+
+      - name: Install Dependencies
+        run: |
+          gem install bundler
+          bundle install
+
+      - name: Run HTMLProofer
+        run: bundle exec htmlproofer ./_site
