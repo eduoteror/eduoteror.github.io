@@ -4,7 +4,7 @@ Welcome to my personal blog! Here I'll be sharing my thoughts, ideas, and experi
 
 ## Latest Posts
 
-### [Post Title 1](post1.md)
+### [The Majestic Huskies: A Guide to These Amazing Dogs](post1.md)
 - *Published on May 1, 2024*
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et leo at mi maximus condimentum.
 
