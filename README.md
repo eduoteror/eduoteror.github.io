@@ -8,7 +8,7 @@ Welcome to my personal blog! Here I'll be sharing my thoughts, ideas, and experi
 - *Published on May 1, 2024*
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et leo at mi maximus condimentum.
 
-### [Post Title 2](post2.md)
+### [Mastering Beach Volleyball Techniques](post2.md)
 - *Published on April 20, 2024*
 - Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus sit amet venenatis risus.
 
