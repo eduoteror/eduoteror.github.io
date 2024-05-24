@@ -2,7 +2,7 @@
 
 Welcome to my personal blog! Here I'll be sharing my thoughts, ideas, and experiences.
 
-## <span style="color: red;"> Latest Posts </span>
+## <span style="color: red;font-size: 24px;"> Latest Posts </span>
 
 ### <span style="color: blue;">[The Majestic Huskies: A Guide to These Amazing Dogs](post1.md)</span>
 - *Published on May 1, 2024*
@@ -22,7 +22,7 @@ Welcome to my personal blog! Here I'll be sharing my thoughts, ideas, and experi
 ### [Eating Healthy in the US](post6.md)
 - *Published on April 18, 2024*
 
-## About Me
+## <span style="color: red;">  About Me </span>
 
 I'm a passionate writer and developer based in Miami, Florida, USA. I love exploring new technologies and sharing my knowledge with others.
 
