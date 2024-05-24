@@ -19,6 +19,9 @@ Welcome to my personal blog! Here I'll be sharing my thoughts, ideas, and experi
 ### [Reasons to Plant a Tree in Miami](post5.md)
 - *Published on April 18, 2024*
 
+### [Eating Healthy in the US](post6.md)
+- *Published on April 18, 2024*
+
 ## About Me
 
 I'm a passionate writer and developer based in Miami, Florida, USA. I love exploring new technologies and sharing my knowledge with others.
