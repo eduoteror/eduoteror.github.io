@@ -1,4 +1,4 @@
-#  <span style="orange: red;font-size: 24px;background-color: #ffebee;"> My Personal Blog </span>
+#  <span style="orange: red;font-size: 40px;background-color: #ffebee;"> My Personal Blog </span>
 
 Welcome to my personal blog! Here I'll be sharing my thoughts, ideas, and experiences.
 
