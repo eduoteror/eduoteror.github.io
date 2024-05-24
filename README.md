@@ -13,7 +13,7 @@ Welcome to my personal blog! Here I'll be sharing my thoughts, ideas, and experi
 ### [The Basics of Investing in Stocks](post3.md)
 - *Published on April 10, 2024*
 
-### [Peruvian Food in Miami](post4.md)
+### [Discover the Best Peruvian Restaurants in Miami](post4.md)
 - *Published on April 18, 2024*
 
 ## About Me
