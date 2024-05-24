@@ -2,7 +2,7 @@
 
 Welcome to my personal blog! Here I'll be sharing my thoughts, ideas, and experiences.
 
-## <span style="color: red;font-size: 24px;"> Latest Posts </span>
+## <span style="color: red;font-size: 24px;background-color: #ffebee;"> Latest Posts </span>
 
 ### <span style="color: blue;">[The Majestic Huskies: A Guide to These Amazing Dogs](post1.md)</span>
 - *Published on May 1, 2024*
