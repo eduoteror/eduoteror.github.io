@@ -22,11 +22,11 @@ Welcome to my personal blog! Here I'll be sharing my thoughts, ideas, and experi
 ### [Eating Healthy in the US](post6.md)
 - *Published on April 18, 2024*
 
-## <span style="color: red;">  About Me </span>
+## <span style="color: red;font-size: 24px;background-color: #ffebee;"> About Me </span>
 
 I'm a passionate writer and developer based in Miami, Florida, USA. I love exploring new technologies and sharing my knowledge with others.
 
-## Contact Me
+## <span style="color: red;font-size: 24px;background-color: #ffebee;"> Contact Me </span>
 
 - **Email:** example@example.com
 - **Twitter:** [@username](https://twitter.com/username)
