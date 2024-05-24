@@ -2,9 +2,9 @@
 
 Welcome to my personal blog! Here I'll be sharing my thoughts, ideas, and experiences.
 
-## Latest Posts
+## <span style="color: red;"> Latest Posts </span>
 
-### <span style="color: blue;">[The Majestic Huskies: A Guide to These Amazing Dogs](post1.md)
+### <span style="color: blue;">[The Majestic Huskies: A Guide to These Amazing Dogs](post1.md)****
 - *Published on May 1, 2024*
 
 ### [Mastering Beach Volleyball Techniques](post2.md)
