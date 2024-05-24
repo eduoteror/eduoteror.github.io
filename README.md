@@ -14,10 +14,10 @@ Welcome to my personal blog! Here I'll be sharing my thoughts, ideas, and experi
 - *Published on April 10, 2024*
 
 ### [Discover the Best Peruvian Restaurants in Miami](post4.md)
-- *Published on April 18, 2024*
+- *Published on June 18, 2022*
 
 ### [Reasons to Plant a Tree in Miami](post5.md)
-- *Published on April 18, 2024*
+- *Published on August 23, 2024*
 
 ### [Eating Healthy in the US](post6.md)
 - *Published on April 18, 2024*
